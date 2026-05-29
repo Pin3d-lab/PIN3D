@@ -8,13 +8,13 @@ This is a static website built with HTML, CSS, and JavaScript.
 2. Add a remote and push:
 
    ```powershell
-   git remote add origin https://github.com/<your-username>/pin3d-lap.git
+   git remote add origin https://github.com/<HAN>/pin3d-lap.git
    git branch -M main
    git push -u origin main
    ```
 
 3. In GitHub repo settings, enable Pages from the `main` branch and root directory.
-4. Your site will be available at `https://<your-username>.github.io/pin3d-lap/`.
+4. Your site will be available at `https://<HAN>.github.io/pin3d-lap/`.
 
 ## Alternative deployment options
 
